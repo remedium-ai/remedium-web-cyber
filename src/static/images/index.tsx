@@ -1,12 +1,18 @@
 import { type FC } from "react";
 import PreviewPng from "./preview.webp";
 import HeroImg from "./hero-img.webp";
-import Logo from "./logo.webp";
+// import Logo from "./logo.webp";
+import Logo from "./remedium1.svg";
 
-import HeroSlider1 from "./hero-slider-01.webp";
+// import HeroSlider1 from "./hero-slider-01.webp";
 import HeroSlider2 from "./hero-slider-02.webp";
-import HeroSlider3 from "./hero-slider-03.webp";
+// import HeroSlider3 from "./hero-slider-03.webp";
 
+// import HeroSlider1 from "./index-teaser.png";
+import HeroSlider1 from "./slider/717342439.jpeg";
+// import HeroSlider2 from "./hero-slider-02.webp";
+// import HeroSlider3 from "./services-teaser.png";
+import HeroSlider3 from "./slider/268793354.jpeg";
 import InfiniteImg1 from "./infinite-img-1.webp";
 import InfiniteImg2 from "./infinite-img-2.webp";
 

@@ -26,7 +26,7 @@ export const Socials: FC = ({ ...rest }) => {
                         <Icon iconData="linkedin" alt="linkedin icon" />
                     </S.SocialsLink>
                 </S.SocialsListItem>
-                <S.SocialsListItem>
+                {/* <S.SocialsListItem>
                     <S.SocialsLink
                         href="https://facebook.com"
                         target="_blank"
@@ -55,7 +55,7 @@ export const Socials: FC = ({ ...rest }) => {
                         <p>Instagram</p>
                         <Icon iconData="instagram" alt="instagram icon" />
                     </S.SocialsLink>
-                </S.SocialsListItem>
+                </S.SocialsListItem> */}
             </S.SocialsList>
         </S.SocialsStyled>
     );
