@@ -20,10 +20,10 @@ export const Navigation: FC = () => {
                         >
                             Pro version
                         </a>
-                    </li>  
+                    </li> */} 
                     <li>
                         <a href="/infinite">Services</a>
-                    </li> */}
+                    </li> 
                     <li>
                         <a href="/contact">Contact</a>
                     </li>

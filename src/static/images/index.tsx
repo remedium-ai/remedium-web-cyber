@@ -13,8 +13,11 @@ import HeroSlider1 from "./slider/717342439.jpeg";
 // import HeroSlider2 from "./hero-slider-02.webp";
 // import HeroSlider3 from "./services-teaser.png";
 import HeroSlider3 from "./slider/268793354.jpeg";
-import InfiniteImg1 from "./infinite-img-1.webp";
-import InfiniteImg2 from "./infinite-img-2.webp";
+//import InfiniteImg1 from "./infinite-img-1.webp";
+//import InfiniteImg2 from "./infinite-img-2.webp";
+
+import InfiniteImg1 from "./sbi-teaser.png";
+import InfiniteImg2 from "./services-teaser.png";
 
 export const images = {
     preview: PreviewPng,

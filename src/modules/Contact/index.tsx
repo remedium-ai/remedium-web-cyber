@@ -16,10 +16,9 @@ export const Contact: FC = () => {
                             href="tel:+52 123 233 421"
                             target="_blank"
                         >
-                            <h3>+52 123 233 421</h3>
+                            <h3>+44 123 456 789</h3>
                             <p>
-                                you can call me if you have any questions or
-                                just want to say hi
+                                Call us in case of any urgent questions. 
                             </p>
                         </TextBox>
                     </FadeIn>
@@ -28,13 +27,13 @@ export const Contact: FC = () => {
                             variant="background-text"
                             bgText="Email"
                             boxAsLink={true}
-                            href="mailto:youremail@gmail.com"
+                            href="mailto:service@remedium.ai"
                             target="_blank"
                         >
-                            <h3>youremail@gmail.com</h3>
+                            <h3>service@remedium.ai</h3>
                             <p>
-                                also you can write me an email if you have any
-                                questions
+                                Also you can write us an email if you have any
+                                questions.
                             </p>
                         </TextBox>
                     </FadeIn>
@@ -42,8 +41,8 @@ export const Contact: FC = () => {
                 <FadeIn delay={0.3}>
                     <TextBox variant="background-text" bgText="Address">
                         <h3>Address</h3>
-                        <p>Some street 123, 12345 City, Country</p>
-                        <p>Office: Mystr street 321, 54321 City, Country</p>
+                        <p>United Kingdom</p>
+                        <p>Office: Winnder Street 321, 11111 Manchester, England</p>
                     </TextBox>
                 </FadeIn>
             </S.ContainerStyled>
