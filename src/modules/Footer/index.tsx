@@ -11,10 +11,10 @@ export const Footer: FC = () => {
                 <S.FooterContainer>
                     <Logo />
                     <S.FooterContent>
-                        <p>© 2024 All rights reserved by Remedium.ai</p>
+                        <p>© 2024 All rights reserved by Remedium.ai. </p>
                     </S.FooterContent>
                 </S.FooterContainer>
-                <Socials />
+            {/* <Socials />  */}
             </Container>
         </S.FooterStyled>
     );
